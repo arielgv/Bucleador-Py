@@ -1,3 +1,5 @@
+#dos lineas agregadas especificamente
+#para un nuevo branch en git . no afecta en nada al codigo
 def run():
     contador = 0
     while contador < 1000 :
